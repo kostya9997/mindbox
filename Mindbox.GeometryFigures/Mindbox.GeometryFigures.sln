@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.GeometryFigures", "Mindbox.GeometryFigures.csproj", "{9D2D3C3D-9F94-41D2-8E0C-63D7A33F9C9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.GeometryFiguresTests", "..\Mindbox.GeometryFiguresTests\Mindbox.GeometryFiguresTests.csproj", "{630D963A-37CB-4FF8-BAD7-1AD5792FA79B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9D2D3C3D-9F94-41D2-8E0C-63D7A33F9C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D2D3C3D-9F94-41D2-8E0C-63D7A33F9C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D2D3C3D-9F94-41D2-8E0C-63D7A33F9C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630D963A-37CB-4FF8-BAD7-1AD5792FA79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630D963A-37CB-4FF8-BAD7-1AD5792FA79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630D963A-37CB-4FF8-BAD7-1AD5792FA79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630D963A-37CB-4FF8-BAD7-1AD5792FA79B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
